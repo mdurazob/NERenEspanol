@@ -3,4 +3,4 @@ streamlit
 spacy
 es_core_news_sm
 networkx
-bokeh
+bokeh==2.4.1
